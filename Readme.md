@@ -2,7 +2,7 @@
 ------
 - Visual Studio Code を使うのが便利そう。
 
-![demo]./test.gif
+![demo](./test.gif)
 
 - アドインとして「JSON Tools」を追加。 
   - Ctrl + Alt + M で 分解
